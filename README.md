@@ -1,7 +1,7 @@
 # Modern React Portfolio Website
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Website-blue)](https://vocal-axolotl-b1c8a0.netlify.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-black)](https://github.com/your-username/your-repo)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-black)](https://github.com/genius-0963/Gwing-Commit)
 
 A beautiful and modern portfolio website built with React, TypeScript, and Tailwind CSS. This project showcases a professional portfolio with smooth animations, responsive design, and an excellent user experience.
 
